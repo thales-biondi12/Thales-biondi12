@@ -1,6 +1,6 @@
 # Olá, eu sou Thales Andrade Biondi 👋
 
-Sou desenvolvedor apaixonado por **tecnologia, lógica de programação e desenvolvimento de projetos criativos**. Atualmente, estou explorando diversas áreas da programação, incluindo **C, C#, HTML, CSS e PHP**, além de projetos de banco de dados e lógica estruturada.
+Sou desenvolvedor apaixonado por **tecnologia, lógica de programação e desenvolvimento de projetos criativos**. Atualmente, estou explorando diversas áreas da programação, incluindo **C, C#,Python e PHP**, além de projetos de banco de dados e lógica estruturada.
 
 ---
 
@@ -15,7 +15,7 @@ Sou desenvolvedor apaixonado por **tecnologia, lógica de programação e desenv
 
 ## Habilidades
 
-- **Linguagens de programação:** C, C#, PHP, HTML, CSS.
+- **Linguagens de programação:** C, C#, PHP,Python.
 - **Conceitos:** POO, algoritmos, estruturas de repetição, estruturas condicionais, manipulação de dados.
 - **Ferramentas:** VSCode, IntelliJ, Git/GitHub.
 - **Outras competências:** Criação de jogos simples, projetos educacionais, scripts automatizados e prototipagem rápida.
